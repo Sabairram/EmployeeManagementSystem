@@ -15,18 +15,3 @@ The Employee Management System is a Windows application that allows users to man
 - Windows Forms: Used for creating the user interface and handling user interactions.
 - .NET Framework: Provides the underlying framework for building Windows applications.
 
-## Getting Started
-
-1. Clone the repository: `git clone https://github.com/yusupovbg/EmployeeManagementSystem.git`
-2. Open the solution file (`EmployeeManagementSystem.sln`) in Visual Studio.
-3. Install any required dependencies or packages.
-4. Build the solution.
-5. Run the application by clicking the "Start" button or pressing F5.
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
